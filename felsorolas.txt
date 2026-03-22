@@ -1,0 +1,21 @@
+A második oszlop:
+
+<ul>
+	<li>Stílus: kovácsoltvas szerkezet</li>
+	<li>Átadás éve: 1889</li>
+	<li>Helyszín: Párizs, Franciaország</li>
+	<li>Tervező: Gustave Eiffel irodája</li>
+	<li>Magasság: 330 m</li>
+	<li>Funkció: kilátó és rádiótorony</li>
+</ul>
+
+A harmadik oszlop:
+
+<ul>
+	<li>Anyag: vasrácsos szerkezet</li>
+	<li>Látogatók száma: évente több millió fő</li>
+	<li>Világörökségi státusz: nem önálló helyszín</li>
+	<li>Kiemelt jellemző: Párizs jelképe</li>
+	<li>Felvonók száma: több nyilvános lift</li>
+	<li>Éjszakai díszkivilágítás: igen</li>
+</ul>
