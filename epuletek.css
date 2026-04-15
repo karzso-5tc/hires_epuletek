@@ -18,3 +18,15 @@
 	margin: auto;
 	display: block;
 }
+
+body {
+	background-color: #f7eddc;
+}
+
+#tortenet {
+	font-weight: bolder;
+}
+
+.unesco {
+	font-weight: 1000;
+}
