@@ -10,11 +10,13 @@
 
 .kepfelirat
 {
+	font-style: italic;
 	text-align: center;
 }
 
 .galeriakep
 {
+	height: 300px;
 	margin: auto;
 	display: block;
 }
@@ -24,9 +26,6 @@ body {
 }
 
 #tortenet {
-	font-weight: bolder;
+	font-weight: bold;
 }
 
-.unesco {
-	font-weight: 1000;
-}
