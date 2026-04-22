@@ -8,14 +8,12 @@
 	text-align: center;
 }
 
-.kepfelirat
-{
+.kepfelirat {
 	font-style: italic;
 	text-align: center;
 }
 
-.galeriakep
-{
+.galeriakep {
 	height: 300px;
 	margin: auto;
 	display: block;
@@ -29,3 +27,14 @@ body {
 	font-weight: bold;
 }
 
+th, td{
+	text-align: center;
+}
+
+.tablazat-formazas {
+	border: 3pt solid #7a5c3e;
+}
+
+.card {
+	margin: 20px 0px;
+}
